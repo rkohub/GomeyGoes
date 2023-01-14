@@ -640,6 +640,7 @@ MonoBehaviour:
   timeToSpawn: 1
   lastSpawned: 0
   spawnLocation: {x: 0, y: 2, z: 15}
+  largeStudent: {fileID: 8828585588202640743, guid: c216987a6a28d48fb89e307e97226335, type: 3}
 --- !u!1 &1780356739
 GameObject:
   m_ObjectHideFlags: 0
